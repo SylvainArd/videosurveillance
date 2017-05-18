@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/videosurveillance.cpp
+opencv2/video/tracking.hpp
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/opencv2/video/tracking.hpp
+opencv2/imgproc/imgproc.hpp
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/opencv2/imgproc/imgproc.hpp
+opencv2/video/video.hpp
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/opencv2/video/video.hpp
+opencv2/highgui/highgui.hpp
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/opencv2/highgui/highgui.hpp
+opencv2/objdetect/objdetect.hpp
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/videosurveillance/opencv2/objdetect/objdetect.hpp
+fstream
+-
+iostream
+-
+ctype.h
+-
+iostream
+-
+dirent.h
+-
+sys/types.h
+-
+string
+-
+

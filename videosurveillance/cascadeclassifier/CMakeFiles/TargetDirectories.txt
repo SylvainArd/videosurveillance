@@ -1,0 +1,1 @@
+/home/sylvain/Documents/VideoSurveillance/videosurveillance/cascadeclassifier/CMakeFiles/videosurveillance.dir
